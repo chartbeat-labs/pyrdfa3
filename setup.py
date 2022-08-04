@@ -29,8 +29,8 @@ setup(name="pyRdfa3",
             'rdfa1.1 = pyRdfa.rdflibparsers:RDFaParser',
             'application/svg+xml = pyRdfa.rdflibparsers:RDFaParser',
             'application/xhtml+xml = pyRdfa.rdflibparsers:RDFaParser',
-            'hturtle = pyRdfa.rdflibparsers:HTurtleParser'
-            'html = pyRdfa.rdflibparsers:StructuredDataParser'
+            'hturtle = pyRdfa.rdflibparsers:HTurtleParser',
+            'html = pyRdfa.rdflibparsers:StructuredDataParser',
             'html/text = pyRdfa.rdflibparsers:StructuredDataParser'
         ],
     }
